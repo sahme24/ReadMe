@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=sahme24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahme24&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
